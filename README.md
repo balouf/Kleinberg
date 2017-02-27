@@ -1,5 +1,5 @@
 # Kleinberg
-A Simulator for Greedy Routing in Kleinberg's Grid
+A Simulator for Greedy Routing in Kleinberg's Grid, written in Julia.
 
 This repository contains two NoteBooks :
 - *KleinbergsGridSimulator.ipynb* : the simulator
